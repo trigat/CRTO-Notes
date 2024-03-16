@@ -5,6 +5,8 @@
 > Red Team Ops : https://training.zeropointsecurity.co.uk/courses/red-team-ops
 
 > Reach out to me at : https://an0nud4y.com , Discord ([an0nud4y](https://discordapp.com/users/an0nud4y#6357))
+
+> CRTO Review Blog :  https://m4lici0u5.com/writeups/crto-review/ | http://an0nud4y.com/writeups/crto-review/
 ---
 
 ### 1. [CRTO Cheatsheet](CRTO%20-%20Cheatsheet.md)
